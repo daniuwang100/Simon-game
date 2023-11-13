@@ -26,5 +26,3 @@ This project is an assembly language program designed for an interactive LED seq
 - Enhance user interaction and feedback mechanisms.
 
 ---
-
-This README provides an overview of your project. You may wish to add specific details about the target hardware, assembly instructions, or any additional configurations required.
